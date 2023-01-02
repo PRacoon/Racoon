@@ -1,0 +1,7 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/roror/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: 줄 16: has_option: 명령어를 찾을 수 없음
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: 줄 9: has_option: 명령어를 찾을 수 없음

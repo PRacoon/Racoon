@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Snort 
+Exec=xterm -fg black -bg white -fn *-fixed-*-*-*-20-* -e "echo 'Snort Start';sudo snort -A console -q -u snort -g snort -c /etc/snort/snort.conf"
+Icon=/home/roror/Documents/sn.jpg
+Type=Application
+Terminal=false

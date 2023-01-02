@@ -1,0 +1,198 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.2.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:q!
+|2,0,1672640482,,"q!"
+:q
+|2,0,1669874393,,"q"
+:w
+|2,0,1669874389,,"w"
+:wq
+|2,0,1669706926,,"wq"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""-	CHAR	0
+	false
+|3,1,36,0,1,0,1669874385,"false"
+
+# 파일 마크:
+'0  1  0  ~/.ssh/id_rsa.pub
+|4,48,1,0,1672640482,"~/.ssh/id_rsa.pub"
+'1  7  12  ~/.local/share/applications/snort_run.desktop
+|4,49,7,12,1669874393,"~/.local/share/applications/snort_run.desktop"
+'2  1  0  /etc/sudoers
+|4,50,1,0,1669873510,"/etc/sudoers"
+'3  3  80  ~/.local/share/applications/snort.desktop
+|4,51,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+'4  6  13  ~/.local/share/applications/snort.desktop
+|4,52,6,13,1669706618,"~/.local/share/applications/snort.desktop"
+'5  5  13  ~/.local/share/applications/snort.desktop
+|4,53,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+'6  1  0  ~/.local/share/applications/snort.desktop
+|4,54,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+'7  1  0  ~/.local/share/applications/snort.desktop
+|4,55,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+'8  1  0  ~/.local/share/applications/snort.desktop
+|4,56,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+'9  1  0  ~/.local/share/applications/snort.desktop
+|4,57,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+
+# 점프목록 (새것이 먼저):
+-'  1  0  ~/.ssh/id_rsa.pub
+|4,39,1,0,1672640482,"~/.ssh/id_rsa.pub"
+-'  7  12  ~/.local/share/applications/snort_run.desktop
+|4,39,7,12,1669874393,"~/.local/share/applications/snort_run.desktop"
+-'  7  12  ~/.local/share/applications/snort_run.desktop
+|4,39,7,12,1669874393,"~/.local/share/applications/snort_run.desktop"
+-'  1  0  ~/.local/share/applications/snort_run.desktop
+|4,39,1,0,1669874382,"~/.local/share/applications/snort_run.desktop"
+-'  1  0  ~/.local/share/applications/snort_run.desktop
+|4,39,1,0,1669874382,"~/.local/share/applications/snort_run.desktop"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1669873510,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1669873510,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1669873510,"/etc/sudoers"
+-'  1  0  /etc/sudoers
+|4,39,1,0,1669873510,"/etc/sudoers"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  3  80  ~/.local/share/applications/snort.desktop
+|4,39,3,80,1669706926,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  6  13  ~/.local/share/applications/snort.desktop
+|4,39,6,13,1669706816,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  5  13  ~/.local/share/applications/snort.desktop
+|4,39,5,13,1669706618,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706490,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+-'  1  0  ~/.local/share/applications/snort.desktop
+|4,39,1,0,1669706488,"~/.local/share/applications/snort.desktop"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/.ssh/id_rsa.pub
+	*	1672640085	0
+	"	1	0
+
+> ~/.local/share/applications/snort_run.desktop
+	*	1669874389	0
+	"	7	12
+	^	7	13
+	.	7	12
+	+	7	12
+
+> ~/.local/share/applications/snort.desktop
+	*	1669706893	0
+	"	3	80
+	^	4	33
+	.	3	198
+	+	1	15
+	+	6	13
+	+	6	0
+	+	4	0
+	+	7	0
+	+	4	32
+	+	3	198
